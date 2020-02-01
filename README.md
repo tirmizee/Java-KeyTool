@@ -2,6 +2,8 @@
 
 ## Commands
 
+    keytool -help
+
 | Key      | Description |
 | ------------- | -------------|
 | -certreq   | สร้างการร้องขอใบรับรอง  |
