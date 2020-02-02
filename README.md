@@ -28,3 +28,4 @@
 ## Reference 
 - https://docs.oracle.com/en/java/javase/12/tools/keytool.html
 - https://www.thomasvitale.com/https-spring-boot-ssl-certificate/
+- https://dzone.com/articles/keytool-commandutility-to-generate-a-keystorecerti
